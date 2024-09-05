@@ -30,4 +30,3 @@ Feel free to reach out:
 - [LinkedIn](https://linkedin.com/in/Shadin_mc)
 - ⚡ Fun fact: I love exploring the latest tech trends and working on personal projects in my free time!
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadinmc&show_icons=true)
