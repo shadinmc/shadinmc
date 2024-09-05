@@ -33,7 +33,6 @@ Here are a few key projects I’ve worked on:
 Feel free to reach out:
 - 📫 **How to reach me**: [shadinmc2002@gmail.com]
 - [LinkedIn](https://linkedin.com/in/Shadin_mc)
-- 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: I love exploring the latest tech trends and working on personal projects in my free time!
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadinmc&show_icons=true)
