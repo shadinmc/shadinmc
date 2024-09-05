@@ -13,11 +13,6 @@ I am a passionate **Data Science student** with a focus on **Machine Learning** 
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
   I have basic knowledge of **HTML** and **CSS** and enjoy exploring web development concepts.
 
-### Projects
-Here are a few key projects I’ve worked on:
-- **College Event Approval Platform**: Developed a platform to streamline the event approval process for college events, ensuring efficient communication and approval workflows.
-- **Document Clustering**: Created a project to cluster documents based on their topics, helping organize large sets of documents into relevant categories.
-- **Employee Performance Analysis**: Analyzed employee performance using various metrics and data analysis techniques to provide actionable insights for management.
 
 ### Current Focus
 - 🔭 I’m currently working on enhancing my knowledge of **Data Science** and building practical machine learning applications.
