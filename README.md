@@ -1,4 +1,4 @@
-# Hi, I'm [Shadin mc] 👋
+# Hi, I'm Shadin mc 👋
 
 ### About Me
 I am a passionate **Data Science student** with a focus on **Machine Learning** and **Software Development**. Currently pursuing a degree in **Computer Science Engineering**, specializing in **Data Science**, I enjoy solving real-world problems using technology. I primarily work with **Python** and have basic knowledge of **HTML** and **CSS**.
