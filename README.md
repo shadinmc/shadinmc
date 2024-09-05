@@ -27,6 +27,6 @@ I am a passionate **Data Science student** with a focus on **Machine Learning** 
 ### Let's Connect!
 Feel free to reach out:
 - 📫 **How to reach me**: [shadinmc2002@gmail.com]
-- [LinkedIn](https://linkedin.com/in/Shadin_mc)
+- [LinkedIn](https://linkedin.com/in/Shadin-mc)
 - ⚡ Fun fact: I love exploring the latest tech trends and working on personal projects in my free time!
   
