@@ -3,7 +3,7 @@
 ### About Me
 I am a passionate **Data Science student** with a focus on **Machine Learning** and **Software Development**. Currently pursuing a degree in **Computer Science Engineering**, specializing in **Data Science**, I enjoy solving real-world problems using technology. I primarily work with **Python** and have basic knowledge of **HTML** and **CSS**.
 
-### Skills### Skills
+### Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -29,8 +29,7 @@ I am a passionate **Data Science student** with a focus on **Machine Learning** 
 - Contributing to open-source projects and collaborating with like-minded developers.
 
 ### Let's Connect!
-Feel free to reach out:### Socials
-
+Feel free to reach out:
 <p align="left"> 
   <a href="http://www.instagram.com/Shadin_mc" target="_blank" rel="noreferrer"> 
     <picture> 
@@ -48,9 +47,9 @@ Feel free to reach out:### Socials
   </a> 
   <a href="mailto:shadinmc2002@gmail.com" target="_blank" rel="noreferrer"> 
     <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/mail-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/mail.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/mail.svg" width="32" height="32" /> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/envelope.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/envelope.svg" /> 
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/envelope.svg" width="32" height="32" /> 
     </picture> 
   </a>
 </p>
